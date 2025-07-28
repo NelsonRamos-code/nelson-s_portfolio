@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analytics and Cleansing Portfolio:</h2>
 
 - <b>Data Cleaning & Transformation Projects (SQL)</b>
-  - [Cafe Sales Data Cleaning Project](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Cafe Sales Data Cleaning Project](https://github.com/NelsonRamos-code/Cafe-Sales-Data-Cleaning-Project)
   - [Airbnb Data Wrangling & Transformation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
   - [Glassdoor Job Data: Cleaning, Formatting & Transformation](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Power BI & SQL Projects – End-to-End Data Analytics Solutions (SQL, Excel, Power BI) </b>
