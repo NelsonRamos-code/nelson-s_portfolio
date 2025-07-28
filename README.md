@@ -14,11 +14,11 @@
 
 <h2>📄 Certifications </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Associate Data Engineer in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/track/4f338f7d70c1bb2f0314d7a127aff722d3b8031b)
+- [Data Analyst in Python](https://www.datacamp.com/completed/statement-of-accomplishment/track/1f89d2ec16ef98cc77cccbbf73e360683a7aeb0b)
+- [Data Analyst in Power BI](https://www.datacamp.com/completed/statement-of-accomplishment/track/c1b4a7b48f3a62c5ee770d0ba1ac69cdc5d14b46)
+- [IBM Data Analyst](https://www.coursera.org/account/accomplishments/professional-cert/certificate/4LJ39XL6NR7S)
+- [Data Analyst Associate](https://www.datacamp.com/certificate/DAA0010420464997)
 
 <h2> 🤳 Connect with me:</h2>
 
