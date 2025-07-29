@@ -7,7 +7,7 @@
   - [Airbnb Data Wrangling & Transformation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
   - [Glassdoor Job Data: Cleaning, Formatting & Transformation](https://github.com/NelsonRamos-code/Glassdoor-Job-Data-Cleaning-Formatting-Transformation)
 - <b>Power BI & SQL Projects – End-to-End Data Analytics Solutions (SQL, Excel, Power BI) </b>
-  - [Financial Performance Dashboard](https://github.com/joshmadakor1/EncrypterPOC) 
+  - [Financial Performance Dashboard](https://github.com/NelsonRamos-code/Financial-Performance-Dashboard) 
   - [End-to-End HR Pipeline Analysis and Dashboard](https://github.com/joshmadakor1/DecrypterPOC) 
   - [Churn Analysis Project](https://github.com/joshmadakor1/Key-Logger-With-Email)
   - [Sales Data Analytics Project](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
