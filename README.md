@@ -9,7 +9,7 @@
 - <b>Power BI & SQL Projects – End-to-End Data Analytics Solutions (SQL, Excel, Power BI) </b>
   - [Financial Performance Dashboard](https://github.com/NelsonRamos-code/Financial-Performance-Dashboard) 
   - [End-to-End HR Pipeline Analysis and Dashboard](https://github.com/joshmadakor1/DecrypterPOC) 
-  - [End-End Churn Analysis Project](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [End-End Churn Analysis Project](https://github.com/NelsonRamos-code/Churn-Analysis-Project)
   - [Sales Data Analytics Project](https://github.com/NelsonRamos-code/Sales-Data-Analytics-Project/blob/main/README.md)
 
 <h2>📄 Certifications </h2>
