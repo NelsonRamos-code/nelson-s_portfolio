@@ -14,6 +14,7 @@
 
 <h2>📄 Certifications </h2>
 
+- [Data Engineer in Python](https://www.datacamp.com/completed/statement-of-accomplishment/track/f11a09956f11bb93f2de94939762aac9745ce002)
 - [Associate Data Engineer in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/track/4f338f7d70c1bb2f0314d7a127aff722d3b8031b)
 - [Data Analyst in Python](https://www.datacamp.com/completed/statement-of-accomplishment/track/1f89d2ec16ef98cc77cccbbf73e360683a7aeb0b)
 - [Data Analyst in Power BI](https://www.datacamp.com/completed/statement-of-accomplishment/track/c1b4a7b48f3a62c5ee770d0ba1ac69cdc5d14b46)
