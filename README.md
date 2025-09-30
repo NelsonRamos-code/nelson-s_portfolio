@@ -4,7 +4,7 @@
 
 - <b> ETL Pipeline & Business Intelligence Project (Python, SQL)</b>
   - [Retail Sales Data Warehouse: Python ETL and SQL for Anomaly & Trend Analysis](https://github.com/NelsonRamos-code/Retail-Sales-Data-Warehouse-Python-ETL-and-SQL-for-Anomaly-Trend-Analysis)
-  - [Audiobook Catalog Cleanup: Python Data Wrangling for Historical Audible Records](https://github.com/NelsonRamos-code/Airbnb-Data-Wrangling-Transformation) 
+  - [Audiobook Catalog Cleanup: Python Data Wrangling for Historical Audible Records](https://github.com/NelsonRamos-code/Audiobook-Catalog-Cleanup-Python-Data-Wrangling-for-Historical-Audible-Records/blob/main/README.md) 
 - <b>Data Cleaning & Transformation Projects (SQL)</b>
   - [Netflix Title Data Refinement: SQL Cleaning and Analysis for Content Insights](https://github.com/NelsonRamos-code/Cafe-Sales-Data-Cleaning-Project)
   - [Cafe Sales Data Cleaning Project](https://github.com/NelsonRamos-code/Cafe-Sales-Data-Cleaning-Project)
